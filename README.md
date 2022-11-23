@@ -1,4 +1,4 @@
-# app-ideas
+# 💡 App ideas
 A place to add all app ideas
 
 | Idea | Status |
